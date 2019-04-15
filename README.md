@@ -2,6 +2,8 @@
 
 An animation I built using Flare and turned it into an app using flutter
 
+you can see it here: https://youtu.be/CBYWkMpGkgg
+
 # the animation is available at the following link
 
 2Dimensions: https://www.2dimensions.com/a/dancamdev/files/flare/game-of-thrones/embed
